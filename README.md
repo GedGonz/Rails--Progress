@@ -1,2 +1,2 @@
 # Rails--Progress
-Ejemplo de Progresso de Carga entre paginas
+Ejemplo de Progresso de Carga entre paginas en Rails
